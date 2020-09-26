@@ -1,6 +1,6 @@
 # flutter_job_news_blog
 
-Manage job requruiment over blog
+Design UI within flutter in order to manage job reqruimeent over blog
 
 ## Snapshots : 
 <img src = "https://github.com/hkobir/job_news_flutter/blob/master/snapshots/1.png" width="200px" height="400">
